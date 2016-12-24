@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/" />
   <remote  name="jcrom"
            fetch="https://github.com/JCROM-Android/" />
-  <default revision="refs/tags/android-7.0.1_r4"
+  <default revision="refs/tags/android-7.1.1_r6"
            remote="aosp"
            sync-j="4" />
 
